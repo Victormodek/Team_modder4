@@ -1,5 +1,5 @@
 {
-  "fnmods_update": [
+  "equipe_modder4": [
     {
  "version":"9.62",
  "title":"Update Disponible",
